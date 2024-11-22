@@ -11,3 +11,5 @@ def bubble_sort(array):
     return array
 
 print(bubble_sort([64, 34, 25, 12, 22, 11, 90]))
+
+print([x*y for x in range(3) for y in range(2)])
